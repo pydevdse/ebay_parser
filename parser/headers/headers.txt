@@ -1,0 +1,23 @@
+:authority: www.ebay.com
+:method: GET
+:path: /itm/392311340021
+:scheme: https
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9,ru;q=0.8
+cache-control: no-cache
+cookie: AMCVS_A71B5B5B54F607AB0A4C98A2%40AdobeOrg=1; AMCV_A71B5B5B54F607AB0A4C98A2%40AdobeOrg=-408604571%7CMCMID%7C38293398604304199262674095667665976627%7CMCAAMLH-1643125789%7C6%7CMCAAMB-1643125789%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCCIDH%7C-712381440%7CMCOPTOUT-1642528189s%7CNONE%7CvVersion%7C4.6.0; QuantumMetricUserID=c2ba4538e5c8854564343dc62041d7a3; QuantumMetricSessionID=3fc53fec070717adfdbec1d29679d45a; __gads=ID=b96c3cf6223e86e0:T=1642521001:S=ALNI_MbDL4V_XBjEqJYB6H-Cq0rx8hvQ7Q; JSESSIONID=FB33DD18671CC81814225AB8E2E511E8; ak_bmsc=6AB06B1D331067942CE3AD535FF925CA~000000000000000000000000000000~YAAQBWEXApy8Lbx9AQAAVptAdw4fI1+P1pkWj3byYscg43BW9GkEae81+SqpL3rzRNR50GzuhN0tUnzoRT08RoJ5n7f4CPTzq2y1iKcYz76n+1HcBw781EiAIQ/0NIRegBKtvfqTIc9bpvF3j5hpQG0boFIG0g7Fd/rK727nPDWwveotESLJbK9hDPdp+GvNn+FqW6sbBRC2QiRCF85dZf2wn4oYoWLTftvhBy4RhzBFmFyESyv/jow6SX1dAwf2ji8e5Ds03IBSZBAhv5Gr+do4FTEteTMW8btqGsasxj/Ey83CaX41z0L2249QuymzGmGvSWM+vTqXRzRA++zbQQI638ddgJbxE3HSmwwG9nFBqvMF38rHEiFaBHgGkaDgZ1Y7ULzR5/Im; npii=btguid/6de1378617e0a44d43c3b1b4ff74f0e665abaed7^cguid/6de13bae17e0a44c4330f9b9ff5fcddc65abaed7^; s=CgAD4ACBh6plVNmRlMTM3ODYxN2UwYTQ0ZDQzYzNiMWI0ZmY3NGYwZTb/YFmZ; dp1=bu1p/QEBfX0BAX19AQA**65abaed7^pbf/%23e000e0000001000200000063ca7b57^bl/UA65abaed7^; nonsession=BAQAAAX42/BiUAAaAAAgAHGIQ1NcxNjQyNjc4MjI5eDM5MjMxMTM0MDAyMXgweDJOADMABWPKe1c2OTAwMADKACBlq67XNmRlMTM3ODYxN2UwYTQ0ZDQzYzNiMWI0ZmY3NGYwZTYAywABYelO3zYOflKQj9IvSjsZNKKFup/joiJyfg**; bm_sv=4F01468B171E492ECEBDA3433B080489~E8BmLJEEhFOyLrTe228VBlUxsNI1shLEvB2h177fSuEyQHqC8e38Uc2li472X4vz0ai+Pg/Hpxwrx0SBP79fQ8YhMduyqNZeytJXYiJ9DB8jAT/043QVjy5b7pyVu0KlbtBNJ1o4YSUUx6p6lAAgSg==; ebay=%5Ejs%3D1%5Esbf%3D%2310000100000%5Epsi%3DAQJklVNY*%5E
+pragma: no-cache
+sec-ch-ua: "Chromium";v="97", " Not;A Brand";v="99"
+sec-ch-ua-full-version: "97.0.4692.71"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-model: ""
+sec-ch-ua-platform: "Linux"
+sec-ch-ua-platform-version: "5.13.0"
+sec-fetch-dest: document
+sec-fetch-mode: navigate
+sec-fetch-site: none
+sec-fetch-user: ?1
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
+
