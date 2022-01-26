@@ -11,8 +11,12 @@ logging.basicConfig(level=logging.INFO)
 def ebay_get_html(productid, proxy):
     url = f'https://www.ebay.com/itm/{productid}'
     headers = get_headers()
+    if proxy:
+        proxies = {proxy.split(':')[0]: proxy }
+    else:
+        proxies = None
     try:
-        response = requests.get(url,headers=headers, proxies=proxy)
+        response = requests.get(url,headers=headers, proxies=proxies)
     except Exception as e:
         logging.info(f'Error request')
         logging.info(f'{e}')
